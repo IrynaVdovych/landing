@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Poppins:wght@400;700&display=swap');
+
+h2 { 
+    font-family: 'Bungee Spice', cursive;
+    font-size: 2.5rem;
+}
+
+p {
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Poppins', sans-serif;
+    color:maroon;
+}
+
+ul {
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Poppins', sans-serif;
+    color:maroon;
+}
+
+:root  { 
+    background-color:bisque;
+}
+
+.corgi__title {
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+}
+
+.loving {
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Poppins', sans-serif;
+    color:maroon;
+}
+
+.corgi__button {
+    color:maroon;
+    background-color:sandybrown;
+}
+
+.vaccination {
+    color:maroon;
+    background-color:sandybrown;
+}
+
+.placeholder_corgi {
+    background-color:bisque;
+}
+
+.label__corgi {
+    background-color:bisque;
+}
+
+.label__corgi {
+    background-color:sandybrown;
+}
+
