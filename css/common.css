@@ -57,3 +57,27 @@ ul {
     background-color:sandybrown;
 }
 
+.countdown_container {
+    margin: 0;
+    padding: 0;
+    font-family: 'Bungee Spice', cursive;
+    font-size: 1rem;
+
+}
+
+.opening {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.countdown_container {
+    max-width: 720px;
+    text-align:inherit;
+}
+
+.countdown {
+    margin: 30px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
